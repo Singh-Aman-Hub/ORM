@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 03-03-2025
+## Date: 10-03-2025
 Student Name& register num: Aman Singh || 212224040020
 
 ## AIM
